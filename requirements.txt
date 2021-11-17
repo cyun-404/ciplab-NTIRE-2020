@@ -1,5 +1,5 @@
-Python = 3.6
-PyTorch = 1.2
+Python
+PyTorch
 numpy
 pillow
 tqdm
